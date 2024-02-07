@@ -2,7 +2,7 @@ package javaoopfeatures.encapsulation;
 
 public class Encapsulation {
     // private variables those are only accessible by getter & Setter method
-    private String name;  // encapsulated name variable by private access modifier
+    private String name;  //encapsulated name variable by private access modifier
     private String id;
     private int age;
 
