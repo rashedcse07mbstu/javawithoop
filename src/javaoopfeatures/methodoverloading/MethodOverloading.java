@@ -1,4 +1,4 @@
-package javaoopfeatures;
+package javaoopfeatures.methodoverloading;
 
 public class MethodOverloading {
     //Write a program for Method Overloading oop feature
