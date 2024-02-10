@@ -36,6 +36,4 @@ public class Encapsulation {
         return id;
     }
 
-
-
 }
