@@ -1,4 +1,4 @@
-package abstraction;
+package javaoopfeatures.abstraction;
 
 public abstract class BasePage {
     // Abstract method

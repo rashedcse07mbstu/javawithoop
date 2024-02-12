@@ -1,4 +1,4 @@
-package abstraction;
+package javaoopfeatures.abstraction;
 
 public class TestClass {
     public static void main(String[] args) {

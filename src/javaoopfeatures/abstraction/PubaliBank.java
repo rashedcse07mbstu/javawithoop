@@ -1,4 +1,4 @@
-package abstraction;
+package javaoopfeatures.abstraction;
 
 public class PubaliBank extends BangladeshBank{
     //Overridden Method

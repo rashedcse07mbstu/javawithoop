@@ -1,4 +1,4 @@
-package abstraction;
+package javaoopfeatures.abstraction;
 
 public class KrishiBank extends BangladeshBank {
     @Override
