@@ -1,7 +1,7 @@
 package javaoopfeatures.methodoverriding;
 
 public class OverridingTest {
-   /*Java Program to demonstrate the Java Method Overriding example
+   /*Java Program to demonstrate the Java Method Overriding
    where three classes are overriding the method of a parent class
    */
 
