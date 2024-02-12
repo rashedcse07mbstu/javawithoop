@@ -1,8 +1,9 @@
 package javaoopfeatures.methodoverriding;
 
 public class OverridingTest {
-    /*Java Program to demonstrate the Java Method Overriding example
-   where three classes are overriding the method of a parent class*/
+   /*Java Program to demonstrate the Java Method Overriding example
+   where three classes are overriding the method of a parent class
+   */
 
     public static void main(String args[]) {
         PubaliBank s = new PubaliBank();
