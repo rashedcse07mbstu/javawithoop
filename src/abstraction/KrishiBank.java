@@ -1,7 +1,6 @@
-package javaoopfeatures.methodoverriding;
+package abstraction;
 
 public class KrishiBank extends BangladeshBank {
-    // Child Class
     @Override
     int getRateOfInterest() {
         return 7;
