@@ -6,6 +6,6 @@ public abstract class BangladeshBank {
 
     //Non Abstract Method
     public void sum() {
-        System.out.println("Rashed");
+        System.out.println("Rashedul Islam");
     }
 }
