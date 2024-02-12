@@ -3,6 +3,6 @@ package abstraction;
 public class KrishiBank extends BangladeshBank {
     @Override
     int getRateOfInterest() {
-        return 0;
+        return 7;
     }
 }
