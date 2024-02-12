@@ -1,7 +1,7 @@
 package javaoopfeatures.inheritance;
 
 public class BabyDog extends Dog {
-    void weep() {
+    void doWeep() {
         System.out.println("BabyDog is weeping");
     }
 }
