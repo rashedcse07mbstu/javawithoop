@@ -6,6 +6,6 @@ public abstract class BasePage {
 
     //non abstract method
     public void getCompanyDetails() {
-        System.out.println("XYZ Ltd");
+        System.out.println("XYZ Ltd.");
     }
 }
