@@ -1,7 +1,7 @@
 package javaoopfeatures.methodoverriding;
 
 public class BangladeshBank {
-    //parent class
+    // parent class
     int getRateOfInterest() {
         return 0;
     }
